@@ -1,2 +1,2 @@
-# pcu_tika
-Apache Tika component for PCU project
+# pcu_pdf
+PDF parser component (Apache Tika) for PCU project
