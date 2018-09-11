@@ -3,8 +3,11 @@
 PDF parser component (Apache Tika) for PCU project.
 From the path of a PDF file, get its textual content.
 
+Based on [Apache Tika][tika].
+
 [Check PCU project][pcu].
 
+[tika]: https://tika.apache.org
 [pcu]: https://github.com/zevio/pcu_core
 
 ----
