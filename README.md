@@ -21,7 +21,7 @@ Then, add this import line at the beginning of your Python file :
 
 You can now use pcu_pdf's functions, for example :
 
-pcu_pdf.PDFParser("path/to/pdf/file")
+`pcu_pdf.PDFParser("path/to/pdf/file")`
 
 ## Test
 
