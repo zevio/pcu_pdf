@@ -3,8 +3,11 @@
 PDF parser component (Apache Tika) for PCU project.
 From the path of a PDF file, get its textual content.
 
+Based on [Apache Tika][tika].
+
 [Check PCU project][pcu].
 
+[tika]: https://tika.apache.org
 [pcu]: https://github.com/zevio/pcu_core
 
 ----
@@ -21,7 +24,7 @@ Then, add this import line at the beginning of your Python file :
 
 You can now use pcu_pdf's functions, for example :
 
-pcu_pdf.PDFParser("path/to/pdf/file")
+`pcu_pdf.PDFParser("path/to/pdf/file")`
 
 ## Test
 
