@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pcu_pdf",
-    version="1.2.1",
+    version="1.2.2",
     author="Stella Zevio",
     author_email="stella.zevio@lipn.univ-paris13.fr",
     maintainer="Stella Zevio",
@@ -17,6 +17,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url="https://github.com/zevio/pcu_pdf",
     packages=setuptools.find_packages(),
+    include_package_data=True,
     classifiers=[
         'Development Status :: 5 - Production/Stable',
         'Environment :: Console',
