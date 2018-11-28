@@ -5,12 +5,15 @@ From the path of a PDF file, get its textual content.
 
 Based on [Apache Tika][tika].
 
+![pdf](https://framapic.org/3KUuLTR6t4ot/ZK3b8GArxwxC.png)
+
+----
+
 [Check PCU project][pcu].
 
 [tika]: https://tika.apache.org
 [pcu]: https://github.com/zevio/pcu_core
 
-----
 
 ## Usage in another project
 
